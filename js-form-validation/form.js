@@ -5,6 +5,8 @@ let email = document.querySelector("#email");
 let password = document.querySelector("#password");
 let confirmPassword = document.querySelector("#cpassword");
 
+// akasha github code----
+
 // Event listener to submit form
 form.addEventListener("submit", (e) => {
   e.preventDefault();
